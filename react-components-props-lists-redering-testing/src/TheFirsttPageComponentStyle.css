@@ -1,0 +1,13 @@
+/** @format */
+
+.redBg {
+  background-color: red;
+}
+
+.active {
+  border: 5px solid green;
+}
+
+.greenBg {
+  background-color: green;
+}
