@@ -5,7 +5,6 @@ A comprehensive project designed to help developers master the basics of React.j
 ![React](https://img.shields.io/badge/React-18.2.0-blue.svg)
 ![Testing-Library](https://img.shields.io/badge/Testing%20Library-13.4.0-red.svg)
 ![Jest](https://img.shields.io/badge/Jest-29.4.3-yellow.svg)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 ## Project Overview
 
@@ -155,23 +154,9 @@ Contributions are welcome! Please follow these steps:
 
 Please ensure all tests pass and include relevant test cases for new features.
 
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
 Abram Emad - [GitHub Profile](https://github.com/Abram-Emad)
 
 Project Link: [https://github.com/Abram-Emad/react.js-basic-fundamentals-testing](https://github.com/Abram-Emad/react.js-basic-fundamentals-testing)
-
-
-This comprehensive README provides:
-- Clear installation and usage instructions
-- Detailed documentation of project structure
-- Testing methodology explanation
-- Contribution guidelines
-- Learning resources
-- License and contact information
-
-The structure follows best practices for open-source projects while maintaining accessibility for beginners. The badge system and visual hierarchy make it easy to scan, while detailed sections provide depth for more experienced developers.
